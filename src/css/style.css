@@ -100,6 +100,9 @@ header h1 {
   height: 1.25rem;
   margin-bottom: 1.25rem; }
 
+.progress-position {
+  margin-bottom: 50px; }
+
 footer {
   background: #e7e7e7;
   color: gray;
